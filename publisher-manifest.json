@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "36e58313141007def63551ca",
+  "owner": "yrfcwhsgng",
+  "repo": "page-6ce1e5abe5f6901b6b120c8d",
+  "title": "幻世加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6ce1e5abe5f6901b6b120c8d",
+      "a": "幻世加速器",
+      "b": "",
+      "entity": "幻世加速器",
+      "brand": "幻世加速器",
+      "separator": "",
+      "path": "index.html",
+      "hash": "18d4b286f2c70ce9d236721de77a139f9b326493d124ad30550eccffc7fba9e9",
+      "content": {
+        "keyword1": "幻世加速器",
+        "keyword2": "",
+        "primary_entity": "幻世加速器",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "幻世加速器提供稳定高速的网络加速服务，支持多设备同时在线与机场订阅。官网可便捷下载Windows、macOS、安卓及iOS客户端，适用于流媒体解锁、游戏加速与远程办公。",
+          "AI_DESCRIPTION": "幻世加速器提供稳定高速的网络加速服务，支持多设备同时在线与机场订阅。官网可便捷下载Windows、macOS、安卓及iOS客户端，适用于流媒体解锁、游戏加速与远程办公。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;padding:0;font-family:system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background-color:#f3f4f6;color:#111827;font-size:16px;line-height:1.65;overflow-x:hidden}a{color:#6d28d9;text-decoration:none}a:focus{outline:2px solid #7c3aed}header{background-color:#5b21b6;color:#f5f3ff;padding:12px 16px}.nav{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;font-size:14px}.nav a{color:#ede9fe}.wrap{max-width:640px;margin:0 auto;padding:16px}h1{font-size:1.75rem;color:#4c1d95;margin:24px 0 12px;text-align:center}h2{font-size:1.35rem;color:#5b21b6;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #ddd6fe}h3{font-size:1.1rem;color:#6d28d9;margin:16px 0 8px}p{margin:0 0 12px}.intro{background:#fff;padding:16px;border-radius:8px;border:1px solid #e5e7eb}.plans{display:flex;flex-direction:column;gap:12px}.plan{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:16px}.plan.featured{border:2px solid #7c3aed;background:#f5f3ff}.plan-name{font-weight:700;font-size:1.15rem}.price{color:#6d28d9;font-size:1.4rem;font-weight:700;margin:8px 0}.annual{font-size:.9rem;color:#4b5563}.plan ul{margin:8px 0 0;padding-left:20px}.clients{display:flex;flex-wrap:wrap;gap:10px}.client{flex:1 1 calc(50% - 10px);min-width:140px;background:#fff;border:1px solid #c4b5fd;border-radius:6px;padding:14px 10px;text-align:center}.client a{display:block;font-weight:600}.steps ol{padding-left:20px}.steps li{margin-bottom:10px}details{background:#fff;border:1px solid #e5e7eb;border-radius:6px;padding:10px 12px;margin-bottom:8px}summary{font-weight:600;color:#4c1d95}details p{margin:8px 0 0;color:#374151}.ad,.links{background:#fff;padding:12px;border-radius:8px;margin-top:16px;font-size:14px}.links ul{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:8px 16px;margin:8px 0 0}footer{text-align:center;padding:24px 16px;font-size:13px;color:#6b7280}.sitemap{margin-top:12px}</style><header><nav class=\"nav\" aria-label=\"页面导航\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></nav></header><main class=\"wrap\"><h1>幻世加速器</h1><p class=\"intro\">幻世加速器致力于提供稳定可靠的网络加速体验，通过精选节点与专线优化，帮助用户流畅访问国际内容。我们支持机场订阅导入，覆盖 Windows、macOS、Android、iOS 等多端客户端。无论是观看流媒体、降低游戏延迟还是保障远程协作，均可在幻世加速器官网完成套餐对比、订阅说明与官方下载指引。</p><section id=\"intro\"><h2>品牌简介</h2><p>幻世加速器聚焦长期稳定与低延迟，节点覆盖多个地区，并采用 IPLC 等优化线路减少抖动。服务以订阅制为主，用户可按月或按年选择基础版、旗舰版或团队版。官方身份通过本站公布的套餐、操作说明与客户端入口体现，下载指引均指向本页客户端专区，便于核对来源。</p><p>我们重视多设备同时在线与流量分配：基础版适合轻度使用，旗舰版起提供原生流媒体解锁与游戏加速优化，团队版面向多人共享与企业定制路由。价格与权益以本页展示为准，方便在官网直接阅读后选择。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>基础套餐即可解锁常见国际视频与音乐平台的部分内容，旗舰与团队版支持全节点原生解锁，减少卡顿，适合日常观看。</p><h3>游戏加速</h3><p>旗舰版起包含 IPLC 专线游戏加速优化，用于降低国际服延迟与丢包，适合对实时性要求较高的玩家。</p><h3>远程办公与学习</h3><p>稳定跨境连接，便于视频会议、云文档与学术资源访问。团队版可按需定制路由策略。</p><h3>多设备日常上网</h3><p>基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，满足个人、家庭或小团队同时在线。</p></section><section id=\"plans\"><h2>套餐方案</h2><div class=\"plans\"><div class=\"plan\"><div class=\"plan-name\">基础版</div><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><div class=\"plan-name\">旗舰版（推荐）</div><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><div class=\"plan-name\">团队版</div><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p>选定套餐后可获取对应机场订阅，再导入客户端使用。年付更优惠，流量按自然月重置。请按实际设备数与用量选择，避免浪费或频繁升级。</p></section><section id=\"clients\"><h2>客户端选择与官方下载</h2><p>幻世加速器把客户端选择放在使用流程的核心位置。请先确认系统，再下载对应说明中的客户端，或使用 Clash、v2rayN 等兼容软件导入机场订阅。以下入口均为本站锚点指引，安装前请核对版本与来源。</p><div class=\"clients\"><div class=\"client\"><a href=\"#guide\">Windows 客户端</a>适合桌面，支持订阅导入与系统代理</div><div class=\"client\"><a href=\"#guide\">macOS 客户端</a>轻量菜单栏操作，兼容主流协议</div><div class=\"client\"><a href=\"#guide\">Android 客户端</a>一键连接，后台保持相对稳定</div><div class=\"client\"><a href=\"#guide\">iOS 客户端</a>按说明配置或使用兼容应用导入订阅</div></div><p>通用做法：复制订阅链接，在客户端中添加并更新节点，再按延迟或用途选择线路。官网下载专区建议优先匹配系统，避免混用过时内核导致无法更新订阅。</p></section><section id=\"guide\"><h2>操作说明</h2><div class=\"steps\"><ol><li><strong>选择套餐：</strong>对照流量、设备数与是否需要 IPLC 或全节点解锁，在基础版、旗舰版、团队版中确定方案，年付可降低月均成本。</li><li><strong>获取订阅：</strong>在官网完成选择后获得机场订阅地址（本页以流程说明为主，便于理解导入步骤）。</li><li><strong>下载客户端：</strong>回到客户端选择区，按 Windows、macOS、Android 或 iOS 查看对应说明并安装。</li><li><strong>导入配置：</strong>打开软件，粘贴订阅链接，更新节点列表，优先选择延迟较低或专线节点。</li><li><strong>连接使用：</strong>开启系统代理或隧道模式，测试网页、流媒体或游戏；必要时切换节点或协议。</li></ol></div><p>日常建议：定期更新客户端与订阅，避免节点过期。流量接近上限时提前升级。团队版用户可通过专属客户经理调整路由。遇到异常先更新再换节点，减少无效排障时间。</p><h3>节点与性能说明</h3><p>普通线路适合浏览与轻度使用；旗舰与团队版提供 IPLC 专线，延迟与抖动通常更低，更适合游戏与高清流媒体。节点池会不定期优化，保持订阅更新即可同步。建议在客户端使用测速或自动选择，而不是长期锁定单一节点。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>幻世加速器支持哪些平台的客户端？</summary><p>支持 Windows、macOS、Android 和 iOS，同时也兼容通过订阅链接导入的 Clash 系列、v2rayN 等通用客户端。请以官网客户端选择区的系统说明为准，并尽量使用较新的稳定版本，以提高协议与订阅更新的成功率。</p></details><details><summary>如何完成官方下载并导入机场订阅？</summary><p>先在套餐方案中确认版本与设备数量，获取订阅链接后，到客户端选择区按系统查看下载与导入说明。打开软件添加订阅、更新节点，再连接。若导入失败，检查链接是否完整、客户端是否过旧，或改用另一款兼容客户端重试。</p></details><details><summary>各套餐流量与设备限制是怎样的？</summary><p>基础版每月 100GB、最多 3 台设备同时在线；旗舰版每月 300GB、5 台设备，含全节点原生流媒体与 IPLC 游戏优化；团队版每月 1000GB、20 台设备，另有 VIP 高带宽节点、企业定制路由与专属客户经理。流量按月重置，超限可能降速，需升级或等待下月。</p></details><details><summary>是否能解锁流媒体？游戏加速效果如何？</summary><p>基础版提供基础流媒体解锁；旗舰版与团队版支持全节点原生解锁。游戏方面，旗舰起使用 IPLC 专线优化，有助于降低国际线路延迟。实际观感仍受本地宽带、运营商与目标服务器影响，建议用少量流量先测试再决定是否年付。</p></details><details><summary>连接失败或速度不稳时可以怎么处理？</summary><p>先确认客户端与订阅已更新，然后切换节点、更换协议或关闭再开启系统代理。旗舰版可走 7x24 优先工单，团队版可联系专属客户经理。请避免使用来路不明的修改版客户端。本页只提供操作说明，具体工单入口以实际服务通知为准。</p></details><details><summary>年付和月付怎么选？退订需要注意什么？</summary><p>长期使用选年付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。短期或试用可选月付。退订、剩余流量与发票事宜以当时服务条款为准。下单前请核对设备台数、流量是否够用，以及是否需要 IPLC 或定制路由，减少中途变更。</p></details></section><section id=\"ads\" class=\"ad\"><h2>合作与展示</h2><p>广告与品牌展示位用于介绍相关网络工具与内容服务合作。欢迎云服务、效率软件与内容平台洽谈，具体以官网沟通渠道为准。</p><p><a href=\"#\">推广合作说明</a> · <a href=\"#\">媒体资源</a></p></section><section id=\"links\" class=\"links\"><h2>友情链接</h2><ul><li><a href=\"#\">网络加速百科</a></li><li><a href=\"#\">客户端使用指南</a></li><li><a href=\"#\">流媒体兼容列表</a></li><li><a href=\"#\">游戏延迟优化分享</a></li><li><a href=\"#\">隐私与安全建议</a></li></ul></section><div class=\"sitemap\"><h2>网站地图</h2><p><a href=\"#intro\">简介</a> · <a href=\"#scenes\">场景</a> · <a href=\"#plans\">套餐</a> · <a href=\"#clients\">下载</a> · <a href=\"#guide\">说明</a> · <a href=\"#faq\">问答</a> · <a href=\"#links\">友链</a></p></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>幻世加速器官方网站 · VPN梯子网络加速与客户端下载信息页</p><p>本页介绍套餐、使用场景与操作流程。订阅与安装请通过可核对的正规渠道完成。</p></footer>",
+          "hash": "698d798eadf816d80e222014579adb6b957cfa9f475718d107ff1c169b621de0",
+          "seo": {
+            "title": "幻世加速器官方网站 - VPN梯子网络加速与客户端下载",
+            "keywords": "幻世加速器,幻世加速器官网,VPN,梯子,网络加速,加速器,客户端下载,机场订阅,官方下载,IPLC专线",
+            "description": "幻世加速器提供稳定高速的网络加速服务，支持多设备同时在线与机场订阅。官网可便捷下载Windows、macOS、安卓及iOS客户端，适用于流媒体解锁、游戏加速与远程办公。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hrbydwl.cn",
+    "host": "p-c16e11b18c.hrbydwl.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "4oisvh.cn",
+      "url": "https://4oisvh.cn/",
+      "label": "幻世加速器",
+      "apex": "4oisvh.cn",
+      "kind": null,
+      "identity": "ktndvbp/page-558fd840fb7166adef0359a3"
+    },
+    {
+      "host": "ablck.cn",
+      "url": "https://ablck.cn/",
+      "label": "幻世加速器",
+      "apex": "ablck.cn",
+      "kind": null,
+      "identity": "br5cqyxe/page-c664aa04b0626d399ef3bebf"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3f0ce6092850fad02be53858fa300533a7d0c03ca343df6825734e307ad1c15b",
+    "sitemap.xml": "af03063d090df52756fece9405719fc43c47fb70cba36d5c62fe6bf06276eea1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3c153bc420b5a621c73820d71909cff30eebf41fbacbd0d4d4294defdbe1f9a3",
+    "robots.txt": "56c9abdd44bd2322fed7eb595ba5b1c62ce08209f95b0e0cf5df8db5666b1e2c",
+    "67c5d43b68e1f95ce0a44dd849ee96ea.txt": "77c2a5f7bef37c0d5b84c4f4deb3bfe8854b2ec2f40434ffb92cb094589fc41e"
+  },
+  "revision": "323acd8f45a7a82eee43dc4d907597a71e2952980aa1821c9bf75416c6ef1f07"
+}
